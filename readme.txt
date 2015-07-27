@@ -3,10 +3,10 @@ Contributors: webaware
 Plugin Name: GlotPress Notify
 Plugin URI: http://shop.webaware.com.au/glotpress-notify/
 Author URI: http://webaware.com.au/
-Donate link: http://shop.webaware.com.au/glotpress-notify/
+Donate link: http://shop.webaware.com.au/donations/?donation_for=GlotPress+Notify
 Tags: glotpress, translations, localization, localisation, language
 Requires at least: 3.7
-Tested up to: 4.1
+Tested up to: 4.3
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -61,5 +61,6 @@ Yes, copy it from the plugin's templates folder into your theme, in a folder cal
 
 == Changelog ==
 
-= 1.0.0 [2014-09-15] =
+= 1.0.0, 2014-09-15 =
+
 * initial public version
